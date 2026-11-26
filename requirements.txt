@@ -1,0 +1,7 @@
+# Everything the agent needs in production, pinned.
+livekit-agents[deepgram,silero,turn-detector]==1.8.1
+livekit-plugins-anthropic==1.8.1
+anthropic==1.14.0
+livekit-plugins-noise-cancellation==0.3.0
+livekit-plugins-speechmatics==1.8.1
+python-dotenv==1.2.3

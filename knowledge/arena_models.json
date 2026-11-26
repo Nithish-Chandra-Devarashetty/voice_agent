@@ -1,0 +1,944 @@
+{
+  "brand": "ARENA",
+  "channel_description": "Maruti Suzuki Arena mainstream retail channel",
+  "data_status": "indicative_unverified",
+  "notes": [
+    "PRICING, MILEAGE, VARIANTS AND FEATURES HERE ARE INDICATIVE, NOT PASCO-VERIFIED.",
+    "Prices are ex-showroom Delhi list prices. They EXCLUDE registration, insurance, road tax, accessories and dealer-level offers, so they are NOT on-road prices.",
+    "Figures reflect approximately 2025-09 and drift with every price revision.",
+    "The agent quotes them as approximate and routes the exact on-road figure to a representative. Replace with the PASCO live price list and set last_verified before production use.",
+    "Mileage figures are ARAI/MIDC claimed, not real-world.",
+    "Offers carry categories only, never amounts: amounts change monthly and per dealer.",
+    "suggestable=false means the model is recognised and discussable but never offered proactively (Ignis, per the PASCO acceptance criteria)."
+  ],
+  "last_verified": null,
+  "models": [
+    {
+      "model": "Alto K10",
+      "brand": "ARENA",
+      "aliases": [
+        "alto k10",
+        "alto",
+        "altok10",
+        "alto 10",
+        "alto k 10",
+        "ऑल्टो",
+        "आल्टो",
+        "अल्टो के10"
+      ],
+      "body_type": "Entry hatchback",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "budget",
+        "city",
+        "first car"
+      ],
+      "features": [
+        "1.0L K-series Dual Jet engine",
+        "AMT option",
+        "7-inch SmartPlay Studio",
+        "Dual airbags",
+        "Rear parking sensors",
+        "Factory-fitted S-CNG option"
+      ],
+      "variants": [
+        "Std",
+        "LXi",
+        "VXi",
+        "VXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 4.23,
+        "max_lakh": 6.21,
+        "spoken": "about 4.23 lakh to 6.21 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "24.90 kmpl",
+        "petrol_amt": "24.90 kmpl",
+        "cng": "33.85 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "WagonR",
+      "brand": "ARENA",
+      "aliases": [
+        "wagonr",
+        "wagon r",
+        "wagan r",
+        "vagon r",
+        "wagner",
+        "वैगनआर",
+        "वैगन आर"
+      ],
+      "body_type": "Tall-boy hatchback",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "city",
+        "family",
+        "space"
+      ],
+      "features": [
+        "Tall-boy cabin with high seating",
+        "1.0L and 1.2L engine options",
+        "AMT option",
+        "7-inch SmartPlay Studio",
+        "Dual airbags with EBD",
+        "Factory-fitted S-CNG option"
+      ],
+      "variants": [
+        "LXi",
+        "VXi",
+        "ZXi",
+        "ZXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 5.79,
+        "max_lakh": 7.42,
+        "spoken": "about 5.79 lakh to 7.42 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_1_0": "24.35 kmpl",
+        "petrol_1_2": "25.19 kmpl",
+        "cng": "34.05 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "Swift",
+      "brand": "ARENA",
+      "aliases": [
+        "swift",
+        "swif",
+        "sweft",
+        "swift vxi",
+        "new swift",
+        "स्विफ्ट",
+        "स्वीफ्ट"
+      ],
+      "body_type": "Hatchback",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "city",
+        "sporty",
+        "young buyer"
+      ],
+      "features": [
+        "1.2L Z-series three-cylinder engine",
+        "AMT option",
+        "9-inch SmartPlay Pro touchscreen",
+        "Six airbags",
+        "Cruise control",
+        "Wireless charging"
+      ],
+      "variants": [
+        "LXi",
+        "VXi",
+        "VXi (O)",
+        "ZXi",
+        "ZXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 6.49,
+        "max_lakh": 9.64,
+        "spoken": "about 6.49 lakh to 9.64 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "24.80 kmpl",
+        "petrol_amt": "25.75 kmpl",
+        "cng": "32.85 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "Dzire",
+      "brand": "ARENA",
+      "aliases": [
+        "dzire",
+        "desire",
+        "dezire",
+        "swift dzire",
+        "d zire",
+        "डिजायर",
+        "डिज़ायर"
+      ],
+      "body_type": "Compact sedan",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "sedan",
+        "family",
+        "commercial",
+        "taxi"
+      ],
+      "features": [
+        "Compact sedan with 382-litre boot",
+        "1.2L Z-series engine",
+        "Single-pane sunroof",
+        "Six airbags",
+        "360-view camera",
+        "Cruise control"
+      ],
+      "variants": [
+        "LXi",
+        "VXi",
+        "ZXi",
+        "ZXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 6.84,
+        "max_lakh": 10.14,
+        "spoken": "about 6.84 lakh to 10.14 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "24.79 kmpl",
+        "petrol_amt": "25.71 kmpl",
+        "cng": "33.73 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "Brezza",
+      "brand": "ARENA",
+      "aliases": [
+        "brezza",
+        "breza",
+        "vitara brezza",
+        "bridge a",
+        "brezaa",
+        "ब्रेज़ा",
+        "ब्रेजा"
+      ],
+      "body_type": "Compact SUV",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "compact suv",
+        "family",
+        "city"
+      ],
+      "features": [
+        "1.5L K-series Dual Jet with mild hybrid",
+        "Six-speed torque converter AT",
+        "Electric sunroof",
+        "360-view camera",
+        "Six airbags",
+        "Head-up display"
+      ],
+      "variants": [
+        "LXi",
+        "VXi",
+        "ZXi",
+        "ZXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 8.69,
+        "max_lakh": 14.14,
+        "spoken": "about 8.69 lakh to 14.14 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "17.38 kmpl",
+        "petrol_at": "19.80 kmpl",
+        "cng": "25.51 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "Ertiga",
+      "brand": "ARENA",
+      "aliases": [
+        "ertiga",
+        "artiga",
+        "ertika",
+        "ertigaa",
+        "एर्टिगा",
+        "अर्टिगा"
+      ],
+      "body_type": "MPV",
+      "seating_capacity": 7,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "7 seater",
+        "family",
+        "mpv",
+        "commercial"
+      ],
+      "features": [
+        "Seven-seat MPV layout",
+        "1.5L K-series with mild hybrid",
+        "Six-speed AT option",
+        "Cruise control",
+        "Four airbags",
+        "Factory-fitted S-CNG option"
+      ],
+      "variants": [
+        "LXi",
+        "VXi",
+        "ZXi",
+        "ZXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 8.69,
+        "max_lakh": 13.03,
+        "spoken": "about 8.69 lakh to 13.03 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "20.51 kmpl",
+        "petrol_at": "20.30 kmpl",
+        "cng": "26.11 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "Celerio",
+      "brand": "ARENA",
+      "aliases": [
+        "celerio",
+        "cilerio",
+        "selerio",
+        "salerio",
+        "सेलेरियो"
+      ],
+      "body_type": "Hatchback",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "budget",
+        "city",
+        "mileage"
+      ],
+      "features": [
+        "1.0L K-series Dual Jet engine",
+        "AMT option",
+        "7-inch SmartPlay Studio",
+        "Dual airbags with EBD",
+        "Hill hold assist (AMT)",
+        "Factory-fitted S-CNG option"
+      ],
+      "variants": [
+        "LXi",
+        "VXi",
+        "ZXi",
+        "ZXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 5.64,
+        "max_lakh": 7.27,
+        "spoken": "about 5.64 lakh to 7.27 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "24.97 kmpl",
+        "petrol_amt": "26.68 kmpl",
+        "cng": "34.43 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "S-Presso",
+      "brand": "ARENA",
+      "aliases": [
+        "s presso",
+        "spresso",
+        "s-presso",
+        "espresso",
+        "expresso",
+        "es presso",
+        "एस प्रेसो",
+        "एस-प्रेसो"
+      ],
+      "body_type": "Micro SUV-styled hatchback",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "budget",
+        "city",
+        "first car"
+      ],
+      "features": [
+        "High SUV-style seating",
+        "1.0L K-series Dual Jet engine",
+        "AMT option",
+        "7-inch SmartPlay Studio",
+        "Dual airbags",
+        "Factory-fitted S-CNG option"
+      ],
+      "variants": [
+        "Std",
+        "LXi",
+        "VXi",
+        "VXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 4.26,
+        "max_lakh": 6.12,
+        "spoken": "about 4.26 lakh to 6.12 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "24.76 kmpl",
+        "petrol_amt": "25.30 kmpl",
+        "cng": "32.73 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "Eeco",
+      "brand": "ARENA",
+      "aliases": [
+        "eeco",
+        "eco",
+        "ecco",
+        "eko",
+        "ईको",
+        "इको"
+      ],
+      "body_type": "Van",
+      "seating_capacity": 7,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "commercial",
+        "van",
+        "cargo",
+        "large family"
+      ],
+      "features": [
+        "Five and seven seat layouts",
+        "Cargo variant available",
+        "1.2L engine",
+        "Dual airbags",
+        "ABS with EBD",
+        "Factory-fitted S-CNG option"
+      ],
+      "variants": [
+        "5-Seater STD",
+        "5-Seater AC",
+        "7-Seater",
+        "Cargo"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 5.32,
+        "max_lakh": 6.58,
+        "spoken": "about 5.32 lakh to 6.58 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol": "19.71 kmpl",
+        "cng": "26.78 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "Victoris",
+      "brand": "ARENA",
+      "aliases": [
+        "victoris",
+        "victories",
+        "victoria",
+        "viktoris",
+        "विक्टोरिस"
+      ],
+      "body_type": "SUV",
+      "seating_capacity": 5,
+      "fuel_options": [],
+      "use_cases": [
+        "suv",
+        "family"
+      ],
+      "features": [
+        "Strong hybrid and AllGrip AWD options",
+        "Panoramic sunroof",
+        "Level 2 ADAS",
+        "360-view camera",
+        "Six airbags",
+        "Ventilated front seats"
+      ],
+      "variants": [
+        "LXi",
+        "VXi",
+        "ZXi",
+        "ZXi+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 10.5,
+        "max_lakh": 19.98,
+        "spoken": "about 10.50 lakh to 19.98 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "21.18 kmpl",
+        "strong_hybrid": "28.65 kmpl",
+        "cng": "27.02 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    }
+  ],
+  "price_basis": "ex-showroom Delhi",
+  "price_as_of": "2025-09"
+}

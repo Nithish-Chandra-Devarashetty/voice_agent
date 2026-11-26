@@ -1,0 +1,765 @@
+{
+  "brand": "NEXA",
+  "channel_description": "Maruti Suzuki NEXA premium retail channel",
+  "data_status": "indicative_unverified",
+  "notes": [
+    "PRICING, MILEAGE, VARIANTS AND FEATURES HERE ARE INDICATIVE, NOT PASCO-VERIFIED.",
+    "Prices are ex-showroom Delhi list prices. They EXCLUDE registration, insurance, road tax, accessories and dealer-level offers, so they are NOT on-road prices.",
+    "Figures reflect approximately 2025-09 and drift with every price revision.",
+    "The agent quotes them as approximate and routes the exact on-road figure to a representative. Replace with the PASCO live price list and set last_verified before production use.",
+    "Mileage figures are ARAI/MIDC claimed, not real-world.",
+    "Offers carry categories only, never amounts: amounts change monthly and per dealer.",
+    "suggestable=false means the model is recognised and discussable but never offered proactively (Ignis, per the PASCO acceptance criteria)."
+  ],
+  "last_verified": null,
+  "models": [
+    {
+      "model": "Baleno",
+      "brand": "NEXA",
+      "aliases": [
+        "baleno",
+        "balino",
+        "balena",
+        "बलेनो",
+        "बालेनो",
+        "maruti baleno",
+        "nexa baleno"
+      ],
+      "body_type": "Premium hatchback",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "city",
+        "family",
+        "first car",
+        "fuel economy"
+      ],
+      "features": [
+        "Head-up display",
+        "360-view camera",
+        "9-inch SmartPlay Pro+ touchscreen",
+        "Six airbags",
+        "Arkamys surround sound",
+        "Auto climate control"
+      ],
+      "variants": [
+        "Sigma",
+        "Delta",
+        "Zeta",
+        "Alpha"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 6.7,
+        "max_lakh": 9.92,
+        "spoken": "about 6.70 lakh to 9.92 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "22.35 kmpl",
+        "petrol_amt": "22.94 kmpl",
+        "cng": "30.61 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": true
+    },
+    {
+      "model": "Fronx",
+      "brand": "NEXA",
+      "aliases": [
+        "fronx",
+        "franx",
+        "fronex",
+        "phronx",
+        "fronks",
+        "front x",
+        "फ्रोंक्स",
+        "फ्रॉन्क्स",
+        "nexa fronx"
+      ],
+      "body_type": "Compact SUV crossover",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "city",
+        "compact suv",
+        "young buyer",
+        "first suv"
+      ],
+      "features": [
+        "1.0L Boosterjet turbo option",
+        "Head-up display",
+        "360-view camera",
+        "Six airbags",
+        "Wireless charging",
+        "LED DRLs with crystal grille"
+      ],
+      "variants": [
+        "Sigma",
+        "Delta",
+        "Delta+",
+        "Delta+ (O)",
+        "Zeta",
+        "Alpha"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 7.51,
+        "max_lakh": 13.04,
+        "spoken": "about 7.51 lakh to 13.04 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_1_2_mt": "21.79 kmpl",
+        "turbo_1_0": "21.50 kmpl",
+        "petrol_amt": "22.89 kmpl",
+        "cng": "28.51 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": true
+    },
+    {
+      "model": "Grand Vitara",
+      "brand": "NEXA",
+      "aliases": [
+        "grand vitara",
+        "grandvitara",
+        "grand vitara hybrid",
+        "vitara",
+        "grand witara",
+        "ग्रैंड विटारा",
+        "ग्रांड विटारा",
+        "grand vitaara"
+      ],
+      "body_type": "Mid-size SUV",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol",
+        "Hybrid",
+        "CNG"
+      ],
+      "use_cases": [
+        "family",
+        "suv",
+        "highway",
+        "premium",
+        "hybrid"
+      ],
+      "features": [
+        "Intelligent Electric Hybrid",
+        "AllGrip Select AWD",
+        "Panoramic sunroof",
+        "360-view camera",
+        "Ventilated front seats",
+        "Head-up display"
+      ],
+      "variants": [
+        "Sigma",
+        "Delta",
+        "Zeta",
+        "Alpha",
+        "Zeta+",
+        "Alpha+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 11.42,
+        "max_lakh": 20.68,
+        "spoken": "about 11.42 lakh to 20.68 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "21.11 kmpl",
+        "strong_hybrid": "27.97 kmpl",
+        "awd": "19.38 kmpl",
+        "cng": "26.60 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": true
+    },
+    {
+      "model": "Jimny",
+      "brand": "NEXA",
+      "aliases": [
+        "jimny",
+        "jimni",
+        "jimmy",
+        "jhimny",
+        "zimny",
+        "जिम्नी",
+        "जिमनी"
+      ],
+      "body_type": "Off-road SUV",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol"
+      ],
+      "use_cases": [
+        "off road",
+        "adventure",
+        "4x4",
+        "lifestyle"
+      ],
+      "features": [
+        "AllGrip Pro 4x4 with low range",
+        "Ladder-frame chassis",
+        "Brake LSD traction control",
+        "Hill hold and descent control",
+        "Washable rear floor",
+        "9-inch SmartPlay Pro+"
+      ],
+      "variants": [
+        "Zeta",
+        "Alpha"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 12.74,
+        "max_lakh": 14.95,
+        "spoken": "about 12.74 lakh to 14.95 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "16.94 kmpl",
+        "petrol_at": "16.39 kmpl"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": true
+    },
+    {
+      "model": "XL6",
+      "brand": "NEXA",
+      "aliases": [
+        "xl6",
+        "xl 6",
+        "xl six",
+        "excel 6",
+        "एक्सएल6",
+        "एक्सएल 6"
+      ],
+      "body_type": "Premium MPV",
+      "seating_capacity": 6,
+      "fuel_options": [
+        "Petrol",
+        "CNG"
+      ],
+      "use_cases": [
+        "family",
+        "6 seater",
+        "mpv",
+        "large family"
+      ],
+      "features": [
+        "Six-seater captain-seat layout",
+        "Ventilated front seats",
+        "Cruise control",
+        "360-view camera",
+        "Four airbags",
+        "Auto climate control with rear vents"
+      ],
+      "variants": [
+        "Zeta",
+        "Alpha",
+        "Alpha+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 11.78,
+        "max_lakh": 14.78,
+        "spoken": "about 11.78 lakh to 14.78 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "20.97 kmpl",
+        "petrol_at": "20.27 kmpl",
+        "cng": "26.32 km/kg"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": true
+    },
+    {
+      "model": "Ignis",
+      "brand": "NEXA",
+      "aliases": [
+        "ignis",
+        "ignus",
+        "igniss",
+        "इग्निस"
+      ],
+      "body_type": "Urban compact hatchback",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Petrol"
+      ],
+      "use_cases": [
+        "city",
+        "compact",
+        "budget",
+        "first car"
+      ],
+      "features": [
+        "Compact urban footprint",
+        "LED projector headlamps",
+        "7-inch SmartPlay Studio",
+        "Dual airbags with ESP",
+        "Hill hold assist (AMT)",
+        "Rear parking camera"
+      ],
+      "variants": [
+        "Sigma",
+        "Delta",
+        "Zeta",
+        "Alpha"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 5.85,
+        "max_lakh": 8.32,
+        "spoken": "about 5.85 lakh to 8.32 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "petrol_mt": "20.89 kmpl",
+        "petrol_amt": "20.89 kmpl"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": false
+    },
+    {
+      "model": "Invicto",
+      "brand": "NEXA",
+      "aliases": [
+        "invicto",
+        "invicta",
+        "invito",
+        "invicto hybrid",
+        "इनविक्टो",
+        "इन्विक्टो"
+      ],
+      "body_type": "Premium MPV",
+      "seating_capacity": 7,
+      "fuel_options": [
+        "Hybrid"
+      ],
+      "use_cases": [
+        "family",
+        "7 seater",
+        "8 seater",
+        "premium",
+        "mpv",
+        "chauffeur"
+      ],
+      "features": [
+        "Intelligent Electric Hybrid",
+        "Seven and eight seat layouts",
+        "Ottoman captain seats",
+        "Panoramic sunroof",
+        "Six airbags",
+        "Powered tailgate"
+      ],
+      "variants": [
+        "Zeta+",
+        "Alpha+"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 25.21,
+        "max_lakh": 29.22,
+        "spoken": "about 25.21 lakh to 29.22 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "strong_hybrid": "23.24 kmpl"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": true
+    },
+    {
+      "model": "e Vitara",
+      "brand": "NEXA",
+      "aliases": [
+        "e vitara",
+        "evitara",
+        "e-vitara",
+        "e witara",
+        "electric vitara",
+        "ev vitara",
+        "ई विटारा",
+        "इ विटारा"
+      ],
+      "body_type": "Electric SUV",
+      "seating_capacity": 5,
+      "fuel_options": [
+        "Electric"
+      ],
+      "use_cases": [
+        "electric",
+        "ev",
+        "suv",
+        "low running cost"
+      ],
+      "features": [
+        "49 kWh and 61 kWh battery options",
+        "HEARTECT-e EV platform",
+        "DC fast charging support",
+        "10.1-inch infotainment",
+        "Level 2 ADAS",
+        "Seven airbags"
+      ],
+      "variants": [
+        "Delta",
+        "Zeta",
+        "Alpha"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "city": "Delhi",
+        "basis": "ex-showroom",
+        "min_lakh": 17.49,
+        "max_lakh": 24.0,
+        "spoken": "about 17.49 lakh to 24.00 lakh, ex-showroom Delhi",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "excludes": [
+          "registration",
+          "insurance",
+          "road tax",
+          "accessories",
+          "dealer offers"
+        ]
+      },
+      "mileage": {
+        "basis": "ARAI/MIDC claimed",
+        "as_of": "2025-09",
+        "confidence": "indicative",
+        "range_49kwh": "up to 344 km (MIDC claimed)",
+        "range_61kwh": "up to 543 km (MIDC claimed)"
+      },
+      "offers": [
+        {
+          "type": "Exchange bonus",
+          "amount": null,
+          "note": "Depends on the valuation of the old car"
+        },
+        {
+          "type": "Corporate discount",
+          "amount": null,
+          "note": "For employees of eligible listed companies"
+        },
+        {
+          "type": "Consumer scheme / cash benefit",
+          "amount": null,
+          "note": "Varies month to month; confirm the current scheme"
+        },
+        {
+          "type": "Finance and low-EMI schemes",
+          "amount": null,
+          "note": "Subject to the financier and the credit profile"
+        }
+      ],
+      "available_information": [
+        "features",
+        "variants",
+        "pricing",
+        "mileage",
+        "offers"
+      ],
+      "suggestable": true
+    }
+  ],
+  "price_basis": "ex-showroom Delhi",
+  "price_as_of": "2025-09"
+}
