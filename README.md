@@ -1,6 +1,6 @@
-# PASCO Motors phone agent (v3)
+# DASCO Motors phone agent (v3)
 
-A small LiveKit voice agent that answers PASCO Motors' phone line in English.
+A small LiveKit voice agent that answers dasco Motors' phone line in English.
 
 - **Speech-to-text:** Speechmatics with speaker diarization: another voice near the phone is
   answered only if it asks about cars; anything else it says is ignored
