@@ -1,4 +1,4 @@
-# DASCO Motors phone agent (v3)
+# Phone agent (v3)
 
 A small LiveKit voice agent that answers dasco Motors' phone line in English.
 
